@@ -117,6 +117,8 @@ plugin allows you to access your SwitchBot Device(s) from HomeKit with
     - Check `Enable Bluetooth Low Energy (BLE) Connection` on Device Config
 - SwitchBot Plug
   - Supports OpenAPI Connection Only
+- SwitchBot Lock
+  - Supports OpenAPI Connection Only
 
 ## Supported IR Devices
 

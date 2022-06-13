@@ -182,9 +182,9 @@ export class Lock {
       } as payload;
 
       if (this.LockTargetState) {
-        payload.command = 'unlock';
-      } else {
         payload.command = 'lock';
+      } else {
+        payload.command = 'unlock';
       }
 
       this.infoLog(
